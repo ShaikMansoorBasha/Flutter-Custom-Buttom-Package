@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/shaikmansoor/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/shaikmansoor/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/shaikmansoor/Libre Work/Newfolder/LibreAndroid Projects/FlutterProjects/FlutterPackages/custom_button_pkg/example/android/app/.cxx/Debug/233j2823/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/shaikmansoor/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/shaikmansoor/Libre Work/Newfolder/LibreAndroid Projects/FlutterProjects/FlutterPackages/custom_button_pkg/example/android/app/.cxx/Debug/233j2823/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
